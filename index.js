@@ -212,7 +212,7 @@ const musicNames = [
 'Passenger | Let Her Go',
 'Adele - Hello',
 'Ed Sheeran - Perfect',
-'Charlie Puth - We Don't Talk Anymore ',
+'Charlie Puth - We Dont Talk Anymore ',
 'Clean Bandit - Rockabye',
 'Calvin Harris, Rihanna - This Is What You Came For',
 'Sia - Chandelier',
